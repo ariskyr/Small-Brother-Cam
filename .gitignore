@@ -1,3 +1,7 @@
+#build and cache folders
+build/
+.cache/
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,7 @@
 *.exe
 *.out
 *.app
+
+# ESP-ISF files
+sdkconfig
+sdkconfig.old
